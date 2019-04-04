@@ -5,6 +5,26 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://MyHealthyLemonade.github.io",
+    "hubpress": "https://myhealthylemonade.github.io",
+    "theme": "//MyHealthyLemonade.github.io/themes/casper",
+    "images": "https://MyHealthyLemonade.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
